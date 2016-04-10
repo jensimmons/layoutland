@@ -1,3 +1,3 @@
-# About this file
+# Layout Land
 
-This is a temporary directory, providing files for a temporary holding page. 
+Coming soon.
