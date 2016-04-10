@@ -13,9 +13,7 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-}
 
-main {
   min-height: 100vh;
   background: url('land.svg') no-repeat;
   background-size: cover;
@@ -24,7 +22,7 @@ main {
   display: flex;
 }
 
-.wrapper {
+main {
   margin: auto;
 }
 
@@ -45,15 +43,30 @@ h2 {
 h3 {
   font-family:'Sketch Block W00';
   font-weight: 200;
-  margin: 0.25em 0 1em;
+  margin: 0.25em 0 0.5em;
+}
+
+h4 {
+  font-weight: 200;
+  margin: 0 0 1em;
+  font-size: 1.4rem;
+}
+a {
+  color: rgb(58, 98, 29);
 }
 
 p {
   margin-bottom: 1.5em;
 }
 
+.twitter {
+  height: 2em;
+  width: 2em;
+  margin: 1em auto 1.5em;
+  opacity: 0.6;
+}
 #mc_embed_signup {
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.6);
   padding: 0.5rem 2rem 2rem;
   border-radius: 1em;
   margin: 0 auto 2rem;
