@@ -19,6 +19,7 @@ main {
   min-height: 100vh;
   background: url('land.svg') no-repeat;
   background-size: cover;
+  background-position: 0 50%;
   display: flex;
 }
 
