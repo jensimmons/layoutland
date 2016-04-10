@@ -20,6 +20,7 @@ main {
   background: url('land.svg') no-repeat;
   background-size: cover;
   background-position: 0 50%;
+  background-color: #52811F;
   display: flex;
 }
 
