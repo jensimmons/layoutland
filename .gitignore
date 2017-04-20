@@ -3,7 +3,10 @@ Ignore the following Git:
 #########################
 
 config.codekit
+config.codekit3
 
+progress/fonts
+progress/fonts/*
 
 # Packages #
 ############
@@ -15,8 +18,11 @@ config.codekit
 *.jar
 *.rar
 *.tar
-*.zip
 *.tgz
+
+# Photoshop originals #
+############
+*.psd
 
 # Logs and databases #
 ######################
@@ -27,7 +33,8 @@ config.codekit
 ######################
 .DS_Store*
 ehthumbs.db
-Icon
+Icon
+
 Thumbs.db
 ._*
 
